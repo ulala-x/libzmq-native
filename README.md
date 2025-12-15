@@ -465,7 +465,7 @@ The underlying libraries have their own licenses:
 - [ZeroMQ Guide](https://zguide.zeromq.org/)
 - [libzmq API Reference](http://api.zeromq.org/)
 - [libsodium Documentation](https://doc.libsodium.org/)
-- [NetZeroMQ (.NET Native Binding)](https://github.com/ulala-x/net-zeromq)
+- [NetZeroMQ (.NET Native Binding)](https://github.com/ulala-x/net-zmq)
 
 ## Contributing
 
